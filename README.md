@@ -1,5 +1,7 @@
 # Sync-Rainbow-Crosshair-For-TF2
-Languages (Idiomas): EN/PT-BR
+TF2 - Rainbow themed Color-Changing Crosshair by sync.
+
+TF2 - Crosshair Animado (muda de cor) Tematizado (Arco-íris)
 
 ## **Summary(Sumário):**
 
