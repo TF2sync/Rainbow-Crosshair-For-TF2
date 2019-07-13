@@ -1,8 +1,30 @@
 # Sync-Rainbow-Crosshair-For-TF2
 Languages (Idiomas): EN/PT-BR
 
+## **Summary(Sumário):**
 
-## **(EN)**
+
+**(EN):**
+
+1. [How to download and install](#en)
+
+2. [Commands](#script-commands)
+
+3. [Notes](#notes-notas)
+
+
+**(PT-BR):**
+
+1. [Como baixar e instalar](#pt-br)
+
+2. [Comandos](#comandos)
+
+3. [Notas](#notes-notas)
+
+
+
+
+## EN
 
 To download and install the script, follow these simple steps:
 
@@ -15,7 +37,7 @@ To download and install the script, follow these simple steps:
 
 (***NOTE:*** If you don't have a autoexec file, create one by booting up TF2 and typing in the console "host_writeconfig autoexec")
 
-### **SCRIPT COMMANDS:**
+### SCRIPT COMMANDS:
 
 There are two commands, being:
 
@@ -25,7 +47,7 @@ There are two commands, being:
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-## **(PT-BR)**
+## PT-BR
 
 Para baixar e instalar o script, faça o seguinte:
 
@@ -38,7 +60,7 @@ Para baixar e instalar o script, faça o seguinte:
 
 (***NOTA:*** Se você não possui um arquivo autoexec.cfg, entre no TF2 e escreva no console "host_writeconfig autoexec" sem as aspas)
 
-### **COMANDOS**:
+### COMANDOS:
 
 Este script possui dois comandos, sendo eles:
 
@@ -46,7 +68,7 @@ Este script possui dois comandos, sendo eles:
 
 `rnb_disable` Este comando termina o ciclo de animação do crosshair "arco-íris", deixando o crosshair branco
 
-## ***NOTES(NOTAS):***
+## NOTES-NOTAS:
 
 This is the very first script I have ever uploaded, so please be calm and contact me for support. You can contact me by leaving a [comment on my Steam profile](https://steamcommunity.com/profiles/76561198426313012/)
 
