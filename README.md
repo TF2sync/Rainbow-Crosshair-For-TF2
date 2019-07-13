@@ -10,7 +10,7 @@ TF2 - Crosshair Animado (muda de cor) Tematizado (Arco-íris)
 
 1. [How to download and install](#en)
 
-2. [Commands](#script-commands)
+2. [Commands](#commands)
 
 3. [Notes](#notes-notas)
 
@@ -39,7 +39,7 @@ To download and install the script, follow these simple steps:
 
 (***NOTE:*** If you don't have a autoexec file, create one by booting up TF2 and typing in the console "host_writeconfig autoexec")
 
-### SCRIPT COMMANDS:
+### COMMANDS:
 
 There are two commands, being:
 
